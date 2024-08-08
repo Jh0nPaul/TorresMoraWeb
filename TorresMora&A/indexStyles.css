@@ -1,0 +1,22 @@
+.mainheader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.companyBrand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-family: Playfair Display, serif;
+    border-radius: 50%;
+}
+
+.secondBrand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
